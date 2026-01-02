@@ -1,0 +1,49 @@
+.heading{
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin: 0 30% 0 30%;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+.paragraph{
+    color: rgb(46, 45, 44);
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px 10% 0 10%;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+h2{
+    color: rgb(21, 17, 17);
+    text-align: center;
+    background-color: rgb(255, 166, 166);
+    margin: 10px 30% 10px 30%;
+    border-radius: 30px;
+    padding: 5px;
+
+}
+
+.unorder_list{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    background-color: aquamarine;
+    text-align: left;
+    margin: 10px 70% 10px 20%;
+    border-radius: 10px;
+}
+
+.order_list{
+    font-size: medium;
+    font-style: oblique;
+    color: blueviolet;
+    background-color: aquamarine;
+    margin-left: 70%;
+    margin-right: 20%;
+    text-align: right;
+    border-radius: 10px;
+}
+
