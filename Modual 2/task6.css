@@ -1,0 +1,45 @@
+h1{
+    background-color: aquamarine;
+    margin: 10px 35% 10px 35%;
+    padding: 10px;
+    text-align: center;
+    color: rgb(102, 102, 3);
+    border-radius: 10px;
+}
+p{
+    background-color: beige;
+    border: 2px solid rgb(61, 54, 54);
+    margin: 10px 25% 10px 25%;
+    padding: 10px;
+    border-radius: 10px;
+}
+img{
+    height: 300px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.displaynone{
+    height: 300px;
+    width: auto;
+    display: block;
+    margin: 5px auto;
+    display: none;
+}
+
+button{
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+
+.none{
+    display: none;
+}
+
+.hidden{
+    display: hidden;
+}

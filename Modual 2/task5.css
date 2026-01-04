@@ -1,0 +1,108 @@
+h1 {
+    background-color: aquamarine;
+    margin: 20px 30% 10px 30%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+
+    text-shadow: 2px 2px 5px antiquewhite;
+    box-shadow: 2px 5px 5px rgb(71, 71, 71);
+
+    transition: all 0.3s ease;
+}
+
+h1:hover {
+    color: beige;
+    background-color: teal;
+    transform: scale(1.05);
+    box-shadow: 4px 8px 15px rgb(50, 50, 50);
+}
+
+img{
+    height: 150px;
+    width: auto;
+    border-radius: 10px;
+}
+
+.maindiv{
+    display: flex;
+}
+
+.maindiv img {
+    display: block;
+    margin: 20px auto;
+}
+
+.rose{
+    margin: 5px;
+    border: 2px solid rgb(154, 219, 158);
+    border-radius: 10px;
+    background-color: beige;
+}
+
+.rose h2 {
+    color: rgb(255, 95, 95);
+    background-color: rgb(146, 112, 190);
+    margin: 10px 30% 10px 30%;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+.rose p{
+    background-color: rgb(193, 232, 219);
+    padding: 10px;
+    border: 2px solid;
+    border-radius: 10px;
+    margin: 5px;
+}
+.sunflower{
+    margin: 5px;
+    border: 2px solid rgb(154, 219, 158);
+    border-radius: 10px;
+    background-color: beige;
+}
+
+.sunflower h2{
+    color: rgb(246, 255, 0);
+    background-color: rgb(172, 157, 235);
+    margin: 10px 30% 10px 30%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.sunflower p{
+    background-color: rgb(126, 244, 159);
+    padding: 10px;
+    border: 2px solid;
+    border-radius: 10px;
+    margin: 5px;
+    
+}
+
+.hibiscus{
+    margin: 5px;
+    border: 2px solid rgb(154, 219, 158);
+    border-radius: 10px;
+    background-color: beige;
+
+}
+.hibiscus h2{
+    color: rgb(255, 0, 0);
+    background-color: aqua;
+    margin: 10px 30% 10px 30%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.hibiscus p{
+    background-color: rgb(219, 255, 127);
+    padding: 10px;
+    border: 2px solid;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.rose, .hibiscus , .sunflower {
+    box-shadow: 1px 2px 2px rgb(84, 81, 81);
+}
