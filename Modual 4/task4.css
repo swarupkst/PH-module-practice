@@ -1,0 +1,38 @@
+h1{
+text-align: center;
+}
+    
+body{
+    max-width: 1170px;
+    margin: 0 auto;
+
+}
+
+.card{
+    width: 340px;
+    background-color: rgba(90, 255, 255, 0.221);
+    border: 2px solid sienna;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.201);
+    text-align: center;
+}
+
+.card:hover{
+    background-color: aquamarine;
+}
+.card p{
+    text-align: justify;
+}
+img{
+    height: 100px;
+    width: auto;
+    border-radius: 50%;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+
+
+}
